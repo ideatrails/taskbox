@@ -35,5 +35,5 @@ jobs:
         # Chromatic GitHub Action options
         with:
           # 👇 Chromatic projectToken, refer to the manage page to obtain it.
-          # projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-          projectToken: bedbfd1eebf3
+          projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          # projectToken: bedbfd1eebf3
