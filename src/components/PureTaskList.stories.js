@@ -29,7 +29,7 @@ Default.args = {
     { ...TaskStories.Default.args.task, id: '3', title: 'Edited 3' },
     { ...TaskStories.Default.args.task, id: '4', title: 'Tasked 4' },
     { ...TaskStories.Default.args.task, id: '5', title: 'Edited 5' },
-    { ...TaskStories.Default.args.task, id: '6', title: 'Task 6' },
+    { ...TaskStories.Default.args.task, id: '6', title: 'Tasking 6' },
   ],
 };
 
